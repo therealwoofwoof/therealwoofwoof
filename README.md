@@ -1,1 +1,1 @@
-<img src="TheRealWoofwoof.JPG" height="250">
+<img src="TheRealWoofwoof.JPG" width="100%" height="300">
